@@ -1,0 +1,2 @@
+- code processes a given text file (tokenize, lemmatize, pos tagging, etc) 
+- then generates a word guess game based on the most common 50 nouns
