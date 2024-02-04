@@ -76,8 +76,8 @@ def task3_preprocess_raw_text(raw_text):
     # --- do pos tagging on unique lemmas
     # --- print the first 20 words and their tag
     pos_tagged_lemmas_c1 = nltk.pos_tag(unique_lemmas_b_final)
-    for word, tag in pos_tagged_lemmas_c1[:20]:
-        print(word,tag)
+    # for word, tag in pos_tagged_lemmas_c1[:20]:
+    #    print(word,tag)
     pos_tagged_lemmas_c_final = pos_tagged_lemmas_c1
 
     # TASK 3D
