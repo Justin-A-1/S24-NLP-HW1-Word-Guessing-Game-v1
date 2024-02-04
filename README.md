@@ -1,2 +1,4 @@
+- input a text file as the first argument: /pathname/python.exe /pathname/HW1.py /pathname/text_file.txt
 - code processes a given text file (tokenize, lemmatize, pos tagging, etc) 
 - then generates a word guess game based on the most common 50 nouns
+- type "!" to quit the game early
